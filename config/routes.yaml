@@ -1,0 +1,4 @@
+stack_overflow:
+    path: /stack-overflow-questions
+    controller: 'App\Controller\StackOverflowController::getStackOverflowQuestions'
+
